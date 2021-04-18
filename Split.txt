@@ -1,0 +1,7 @@
+spleeterを使った音声分離コマンド
+spleeter separate D:/movie/piyopiyo.mp4 -o D:/movie/out/ -p spleeter:2stems
+
+
+動画の時間が長い場合
+spleeter separate D:/movie/piyopiyo.mp4 -o D:/movie/out/ -p spleeter:2stems -d 3000
+
